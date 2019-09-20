@@ -1,0 +1,8 @@
+# Ignored folder #
+###################
+build/
+target/
+.idea/
+takenoko-project\.iml
+out/
+*.iml
